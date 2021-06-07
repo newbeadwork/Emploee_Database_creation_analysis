@@ -5,6 +5,9 @@ The project includes:
 Data Engineering:
 
 - Inspecting the CSVs and sketching out an ERD of the tables using http://www.quickdatabasediagrams.com.
+
+![SQL_diagramm](EmployeeSQL/SQL_diagramm.png)
+
 - Creating a table schema for each of the six CSV files.
 - Importing each CSV file into the corresponding SQL table.
 
